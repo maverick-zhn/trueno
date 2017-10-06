@@ -26,6 +26,7 @@
 - Easy setup for both cluster and single instance installations.
 - User friendly and intuitive interface for graph analysis, fast algorithm processing and visualization.
 - Designed for Data Mining and Machine Learning.
+- Multi-tenant authentication.
 
 ## Building blocks:
 
